@@ -48,7 +48,7 @@ Place all data files in the same folder as your Python script.
 
 ## 4. How to Run the Code
 ### Step 1: Save the Code
-Copy all provided code into a single Python file (e.g., `emissions_analysis.py`).
+Copy all provided code into a single Python file.
 
 ### Step 2: Run the Script
 Execute the Python script in your development environment.
