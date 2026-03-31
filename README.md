@@ -56,7 +56,7 @@ Execute the Python script in your development environment.
 ### Step 3: View Outputs
 - Each plot will open in a new window sequentially.
 - Close the current plot window to view the next one.
-- One chart (`saudi_co2_intensity.png`) is automatically saved to your folder.
+- Plots are automatically saved to your folder.
 
 ## 5. Output Description
 The script produces 7 visualizations in this order:
